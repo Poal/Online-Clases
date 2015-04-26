@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Submit Album\Submit Album\bin\Submit Album.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Submit Album\Submit Album\bin\Submit Album.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Submit Album\Submit Album\bin\Submit Album.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Submit Album\Submit Album\obj\Debug\Submit Album.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Submit Album\Submit Album\obj\Debug\Submit Album.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Submit Album\Submit Album\obj\Debug\Submit Album.pdb
